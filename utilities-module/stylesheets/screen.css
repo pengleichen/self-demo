@@ -1,0 +1,70 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 120, ../icon/*.png */
+.icon-sprite, .icon-checkmark, .icon-clipboard-checklist, .icon-comment, .icon-library, .icon-mail-opened, .icon-medical-cardiogram, .icon-person-money, .icon-prescription-hexagon, .icon-settings, .icon-three-people {
+  background-image: url('/icon/../icon-s9eae3c2797.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-checkmark {
+  background-position: 0 0;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-clipboard-checklist {
+  background-position: 0 -300px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-comment {
+  background-position: 0 -600px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-library {
+  background-position: 0 -900px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-mail-opened {
+  background-position: 0 -1200px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-medical-cardiogram {
+  background-position: 0 -1500px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-person-money {
+  background-position: 0 -1800px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-prescription-hexagon {
+  background-position: 0 -2100px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-settings {
+  background-position: 0 -2400px;
+}
+
+/* line 84, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.icon-three-people {
+  background-position: 0 -2700px;
+}
+
+/* line 10, ../sass/screen.scss */
+.clearfix {
+  *zoom: 1;
+}
+/* line 38, C:/Ruby25-x64/lib/ruby/gems/2.5.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/general/_clearfix.scss */
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}
